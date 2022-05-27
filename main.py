@@ -25,5 +25,7 @@ def anagramCheck2(str1,str2):
   
 print(anagramCheck2('traps','parts'))
 print(anagramCheck2('party', 'tools'))
+print(anagramCheck2('keel','leek'))
+
 
     
